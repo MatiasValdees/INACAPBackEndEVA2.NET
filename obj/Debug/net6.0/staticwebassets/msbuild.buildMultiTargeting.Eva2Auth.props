@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Eva2Auth.props" />
+</Project>
